@@ -1,0 +1,7 @@
+<1 : Dollar to Saudi Riyal>
+<2 : Dollar to Vietnamese Dong>
+<3 : Dollar to Yemeni Riyal>
+<4 : Dollar to Indian Rupee>
+<5 : Dollar to Euro>
+<6 : Dollar to Pakistani Rupee>
+<7 : Dollar to UAE Dirham>
